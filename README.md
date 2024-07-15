@@ -1,6 +1,6 @@
 # Hola, soy Ivo! 👋
 
-![Portada](https://imgur.com/GW59XQD)
+![Imagen de WhatsApp 2024-07-15 a las 05 04 27_94b6e28f](https://github.com/user-attachments/assets/706aff58-372c-44f8-bc30-a9ce208b4292)
 
 ### Acerca de mi
 
