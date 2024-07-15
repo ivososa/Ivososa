@@ -1,4 +1,4 @@
-# Hola soy [TuNombre] 👋
+# Hola, soy Ivo! 👋
 
 ![Portada](URL_DE_TU_IMAGEN_DE_PORTADA)
 
