@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola soy [Ivo] 👋
 
-<!--
-**ivososa/Ivososa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Portada](https://i.imgur.com/VGnmnP8.png)
 
-Here are some ideas to get you started:
+### Acerca de mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an enthusiastic data science and analytics professional with a solid background in systems engineering, currently in my third year of studies. I possess advanced skills in programming with Python and SQL, and have experience with data visualization tools such as Power BI and Excel. My goal is to leverage my knowledge to transform complex data into actionable and useful information, helping organizations make informed and strategic decisions.
+
+---
+
+### Habilidades:
+
+**Idiomas:**
+- ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+- ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
+- ![Smalltalk](https://img.shields.io/badge/-Smalltalk-000?&logo=smalltalk)
+
+**Base de Datos:**
+- ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+
+**Herramientas y tecnologías:**
+- ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+
+**IDE:**
+- ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm)
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
