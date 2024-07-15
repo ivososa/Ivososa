@@ -1,6 +1,6 @@
 # Hola, soy Ivo! 👋
 
-![Portada](URL_DE_TU_IMAGEN_DE_PORTADA)
+(https://imgur.com/a/iPAw5oj)
 
 ### Acerca de mi
 
