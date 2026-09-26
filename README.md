@@ -1,13 +1,5 @@
 # Hola, soy Ivo! 👋
 
-![Imagen de WhatsApp 2024-07-15 a las 05 04 27_94b6e28f](https://github.com/user-attachments/assets/706aff58-372c-44f8-bc30-a9ce208b4292)
-
-### Acerca de mi
-
-I am an enthusiastic data science and analytics professional with a solid background in systems engineering, currently in my third year of studies. I possess advanced skills in programming with Python and SQL, and have experience with data visualization tools such as Power BI and Excel. My goal is to leverage my knowledge to transform complex data into actionable and useful information, helping organizations make informed and strategic decisions.
-
----
-
 ### Habilidades:
 
 **Idiomas:**
